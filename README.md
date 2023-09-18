@@ -1,8 +1,8 @@
-This repo documents a few papers that I find interesting in 3D vision.
+This repo documents a few papers that I personally find interesting in 3D vision.
 
 **1999**
-- 1999-CCGIT-A morphable model for the synthesis of 3d faces (#3DMM)
-- 
+- 1999-SIGGRAPH-A morphable model for the synthesis of 3d faces (3DMM)
+
 
 **2017**
 - 2017-SIGGRAPH Asia-Learning a model of facial shape and expression from 4D scans （#FLAME, #3DMM)
@@ -10,6 +10,7 @@ This repo documents a few papers that I find interesting in 3D vision.
 **2020**
 - 2020-NIPS-Multiview neural surface reconstruction by disentangling geometry and appearance
 - 2020-3D Morphable Face Models—Past, Present, and Future (#Survey)
+- 2020-MM-A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild (Wav2lip)
 
 **2021**
 - 2021-CVPR-Dynamic neural radiance fields for monocular 4d facial avatar reconstruction (#NeRFACE, pioneer work)
