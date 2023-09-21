@@ -1,5 +1,5 @@
-This repo documents a few papers that I personally find interesting in 3D vision.
 
+## Papers
 **1999**
 - 1999-SIGGRAPH-A morphable model for the synthesis of 3d faces (3DMM)
 
@@ -24,3 +24,6 @@ This repo documents a few papers that I personally find interesting in 3D vision
 - RigNeRF: Fully Controllable Neural 3D Portraits
 - 2022-NeuMan: Neural Human Radiance Field From a Single Video (Deformable NeRF)
 - 2022-CVPR-Humannerf: Free-viewpoint rendering of moving people from monocular video (Deformable NeRF)
+
+## Blogs
+- [NeRF in 2023: Theory and Practice](https://www.it-jim.com/blog/nerf-in-2023-theory-and-practice/#)
